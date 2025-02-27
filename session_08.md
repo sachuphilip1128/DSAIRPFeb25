@@ -2,7 +2,7 @@
 
 ## Built-in Functins
 ### Type conversion functions
-- int("10")                     #  converts string to integer 10
+- int("10")                     #     converts string to integer 10
 - float("3.14")                   converts string ti float 3.14
 - str(100)                        converts integer to string '100'
 - bool(0)                         converts to boolean (False)
